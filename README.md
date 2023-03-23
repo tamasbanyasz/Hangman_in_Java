@@ -1,1 +1,1 @@
-# Hangman_in_Java
+# Hangman in Java
